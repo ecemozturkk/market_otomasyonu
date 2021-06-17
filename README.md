@@ -1,7 +1,7 @@
 # Market Otomasyon Sistemi
 
 **Market otomasyonu, market calisanlarinin urunlerin stok kontrolunu takip edip, musteriler adina siparis olusturulmasini saglayan bir platformdur.** 
-Siteye linke tıklayarak goz gezdirebilirsiniz. :point_right:  [LİNK](http://marketotomasyon.eu5.org/) :point_left: 
+Siteye linke tıklayarak goz gezdirebilirsiniz. :point_right:  [LİNK](http://marketotomasyonu.eu5.org/) :point_left: 
 
 
 
